@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "2026-03-27 的大纲"
             }
+          },
+          {
+            "id": "9d9eb62964a7bad3",
+            "type": "leaf",
+            "state": {
+              "type": "github-issue-controls-view",
+              "state": {},
+              "icon": "github",
+              "title": "Github Issue Controls"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,9 +190,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "githobs:Manage a github issue": false
     }
   },
-  "active": "be0794b903a6ef11",
-  "lastOpenFiles": []
+  "active": "cabd4aa18e648c13",
+  "lastOpenFiles": [
+    "06_个人成长/方法论/策划AI代码查询指南.md",
+    "06_个人成长/方法论",
+    "00_工作台/2026-03-27.md",
+    "01_游戏设计/系统设计/1.NPCAI警戒系统.md.md"
+  ]
 }
